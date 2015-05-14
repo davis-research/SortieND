@@ -1,0 +1,107 @@
+src/DOMPrint/DOMPrintFilter.o: src/DOMPrint/DOMPrintFilter.cpp \
+ src/DOMPrint/DOMPrintFilter.hpp \
+ ../src/xercesc/dom/DOMLSSerializerFilter.hpp \
+ ../src/xercesc/dom/DOMNodeFilter.hpp ../src/xercesc/dom/DOMNode.hpp \
+ ../src/xercesc/util/XercesDefs.hpp \
+ ../src/xercesc/util/Xerces_autoconf_config.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h \
+ ../src/xercesc/util/XercesVersion.hpp ../src/xercesc/util/XMLUniDefs.hpp \
+ ../src/xercesc/util/XMLString.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.hpp \
+ ../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp \
+ ../src/xercesc/util/XMLException.hpp ../src/xercesc/util/XMemory.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdlib.h \
+ ../src/xercesc/util/XMLExceptMsgs.hpp ../src/xercesc/dom/DOMError.hpp \
+ ../src/xercesc/util/XMLUni.hpp \
+ ../src/xercesc/framework/XMLErrorReporter.hpp \
+ ../src/xercesc/util/XMLEnumerator.hpp \
+ ../src/xercesc/util/PlatformUtils.hpp \
+ ../src/xercesc/util/PanicHandler.hpp ../src/xercesc/util/XMLFileMgr.hpp \
+ ../src/xercesc/util/XMLMutexMgr.hpp \
+ ../src/xercesc/framework/MemoryManager.hpp \
+ ../src/xercesc/util/BaseRefVectorOf.c \
+ ../src/xercesc/framework/XMLBuffer.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/string.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/assert.h
+
+src/DOMPrint/DOMPrintFilter.hpp:
+
+../src/xercesc/dom/DOMLSSerializerFilter.hpp:
+
+../src/xercesc/dom/DOMNodeFilter.hpp:
+
+../src/xercesc/dom/DOMNode.hpp:
+
+../src/xercesc/util/XercesDefs.hpp:
+
+../src/xercesc/util/Xerces_autoconf_config.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h:
+
+../src/xercesc/util/XercesVersion.hpp:
+
+../src/xercesc/util/XMLUniDefs.hpp:
+
+../src/xercesc/util/XMLString.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.hpp:
+
+../src/xercesc/util/ArrayIndexOutOfBoundsException.hpp:
+
+../src/xercesc/util/XMLException.hpp:
+
+../src/xercesc/util/XMemory.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdlib.h:
+
+../src/xercesc/util/XMLExceptMsgs.hpp:
+
+../src/xercesc/dom/DOMError.hpp:
+
+../src/xercesc/util/XMLUni.hpp:
+
+../src/xercesc/framework/XMLErrorReporter.hpp:
+
+../src/xercesc/util/XMLEnumerator.hpp:
+
+../src/xercesc/util/PlatformUtils.hpp:
+
+../src/xercesc/util/PanicHandler.hpp:
+
+../src/xercesc/util/XMLFileMgr.hpp:
+
+../src/xercesc/util/XMLMutexMgr.hpp:
+
+../src/xercesc/framework/MemoryManager.hpp:
+
+../src/xercesc/util/BaseRefVectorOf.c:
+
+../src/xercesc/framework/XMLBuffer.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/string.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/assert.h:

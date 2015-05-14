@@ -1,0 +1,44 @@
+xercesc/util/regx/XMLUniCharacter.lo: \
+ xercesc/util/regx/XMLUniCharacter.cpp ../config.h \
+ xercesc/util/regx/XMLUniCharacter.hpp xercesc/util/XercesDefs.hpp \
+ xercesc/util/Xerces_autoconf_config.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h \
+ xercesc/util/XercesVersion.hpp xercesc/util/regx/UniCharTable.hpp
+
+../config.h:
+
+xercesc/util/regx/XMLUniCharacter.hpp:
+
+xercesc/util/XercesDefs.hpp:
+
+xercesc/util/Xerces_autoconf_config.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h:
+
+xercesc/util/XercesVersion.hpp:
+
+xercesc/util/regx/UniCharTable.hpp:

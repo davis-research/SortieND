@@ -1,0 +1,102 @@
+xercesc/util/HeaderDummy.lo: xercesc/util/HeaderDummy.cpp \
+ xercesc/util/BinInputStream.hpp xercesc/util/XMemory.hpp \
+ xercesc/util/XercesDefs.hpp xercesc/util/Xerces_autoconf_config.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h \
+ xercesc/util/XercesVersion.hpp \
+ c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdlib.h \
+ xercesc/util/BinMemInputStream.hpp xercesc/util/PlatformUtils.hpp \
+ xercesc/util/XMLException.hpp xercesc/util/XMLExceptMsgs.hpp \
+ xercesc/dom/DOMError.hpp xercesc/util/XMLUni.hpp \
+ xercesc/framework/XMLErrorReporter.hpp xercesc/util/PanicHandler.hpp \
+ xercesc/util/XMLFileMgr.hpp xercesc/util/XMLMutexMgr.hpp \
+ xercesc/util/BinFileInputStream.hpp xercesc/util/BitOps.hpp \
+ xercesc/util/EmptyStackException.hpp \
+ xercesc/util/IllegalArgumentException.hpp \
+ xercesc/util/InvalidCastException.hpp xercesc/util/IOException.hpp \
+ xercesc/util/NoSuchElementException.hpp \
+ xercesc/util/NullPointerException.hpp xercesc/util/RuntimeException.hpp \
+ xercesc/util/UnexpectedEOFException.hpp \
+ xercesc/util/UnsupportedEncodingException.hpp \
+ xercesc/util/UTFDataFormatException.hpp
+
+xercesc/util/BinInputStream.hpp:
+
+xercesc/util/XMemory.hpp:
+
+xercesc/util/XercesDefs.hpp:
+
+xercesc/util/Xerces_autoconf_config.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/inttypes.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/_mingw.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdint.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stddef.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/sys/types.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wchar.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/include/stdarg.h:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/wctype.h:
+
+xercesc/util/XercesVersion.hpp:
+
+c:\mingw\bin\../lib/gcc/mingw32/4.6.1/../../../../include/stdlib.h:
+
+xercesc/util/BinMemInputStream.hpp:
+
+xercesc/util/PlatformUtils.hpp:
+
+xercesc/util/XMLException.hpp:
+
+xercesc/util/XMLExceptMsgs.hpp:
+
+xercesc/dom/DOMError.hpp:
+
+xercesc/util/XMLUni.hpp:
+
+xercesc/framework/XMLErrorReporter.hpp:
+
+xercesc/util/PanicHandler.hpp:
+
+xercesc/util/XMLFileMgr.hpp:
+
+xercesc/util/XMLMutexMgr.hpp:
+
+xercesc/util/BinFileInputStream.hpp:
+
+xercesc/util/BitOps.hpp:
+
+xercesc/util/EmptyStackException.hpp:
+
+xercesc/util/IllegalArgumentException.hpp:
+
+xercesc/util/InvalidCastException.hpp:
+
+xercesc/util/IOException.hpp:
+
+xercesc/util/NoSuchElementException.hpp:
+
+xercesc/util/NullPointerException.hpp:
+
+xercesc/util/RuntimeException.hpp:
+
+xercesc/util/UnexpectedEOFException.hpp:
+
+xercesc/util/UnsupportedEncodingException.hpp:
+
+xercesc/util/UTFDataFormatException.hpp:
